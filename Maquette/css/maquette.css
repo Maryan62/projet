@@ -1,0 +1,13 @@
+header {
+  width: 100%;
+  background: rgb(248, 246, 246);
+  height: 25%;
+}
+.row {
+  height: 100px;
+}
+h1 {
+  font-size: 14px;
+}
+ul {
+}
